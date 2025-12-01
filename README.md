@@ -95,18 +95,24 @@ http://localhost:5000
   <img src="ApplyForLeave.png" alt="Employee applying for leave" width="100%" />
 </p>
 
+
+
 <p align="center">
   <img src="EmployeeLeaveStatus.png" alt="Employee applying for leave" width="100%" />
 </p>
+
+
 
 <p align="center">
   <img src="EmployeeDashboard.png" alt="Employee applying for leave" width="100%" />
 </p>
 
 
+
 <p align="center">
   <img src="ManagerDashboard.png" alt="Employee applying for leave" width="100%" />
 </p>
+
 
 
 <p align="center">
