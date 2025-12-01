@@ -49,7 +49,7 @@ The **Online Leave Management System** provides an intuitive and automated workf
 | Feature | Description |
 |--------|-------------|
 | 🔍 View All Requests | All employee leaves in one place |
-| ✅ Approve / Reject | Includes comments & notifications |
+| ✅ Approve / Reject / Pending | Employees can delete pending request |
 | 🎯 Advanced Filters | Filter by status (Pending/Approved/Rejected) |
 | 📄 Pagination | Smooth experience for large data |
 
@@ -64,7 +64,7 @@ The **Online Leave Management System** provides an intuitive and automated workf
 | **Database** | SQL Server, EF
 
 
-##2️⃣ **Configure Database**
+## 2️⃣ **Configure Database**
 In appsettings.json:
 
 "ConnectionStrings": {
