@@ -85,9 +85,17 @@ dotnet run
 http://localhost:5000
 
 
+---
+
+
 ## Screenshots 
 
 
 <p align="center">
   <img src="ApplyForLeave.png" alt="Employee applying for leave" width="100%" />
 </p>
+
+<p align="center">
+  <img src="EmployeeLeaveStatus" alt="Employee applying for leave" width="100%" />
+</p>
+
