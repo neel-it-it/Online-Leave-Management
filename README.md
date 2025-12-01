@@ -1,7 +1,7 @@
 # Online Leave Management System
 
 <p align="center">
-  <img src="images/banner.png" alt="Project Banner" width="100%" />
+  <img src="wwwroot/images/banner.png" alt="Project Banner" width="100%" />
 </p>
 
 <h1 align="center">🏢 Online Leave Management System</h1>
