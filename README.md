@@ -1,5 +1,5 @@
 
-<h1 align="center">🌓 Online Leave Management System</h1>
+<h1 align="center">🏢  Online Leave Management System</h1>
 
 <p align="center">
   <img src="leavebanner.png" alt="Dark Banner" width="100%" />
