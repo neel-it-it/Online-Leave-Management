@@ -70,3 +70,12 @@ In appsettings.json:
 "ConnectionStrings": {
   "DefaultConnection": "Server=.;Database=LeaveDB;Trusted_Connection=True;"
 }
+
+## 3️⃣ **Run Migrations**
+dotnet ef database update
+
+## 4️⃣ **Start the Application**
+dotnet run
+
+## 5️⃣ **Open in Browser**
+http://localhost:5000
