@@ -88,7 +88,7 @@ http://localhost:5000
 ---
 
 
-## Screenshots 
+## Screenshoots 
 
 
 <p align="center">
