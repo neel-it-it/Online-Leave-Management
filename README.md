@@ -92,29 +92,29 @@ http://localhost:5000
 
 
 <p align="center">
-  <img src="ApplyForLeave.png" alt="Employee applying for leave" width="100%" />
+  <img src="/images/ApplyForLeave.png" alt="Employee applying for leave" width="100%" />
 </p>
 
 
 
 <p align="center">
-  <img src="EmployeeLeaveStatus.png" alt="Employee Leave status" width="100%" />
+  <img src="/images/EmployeeLeaveStatus.png" alt="Employee Leave status" width="100%" />
 </p>
 
 
 
 <p align="center">
-  <img src="EmployeDashboard.png" alt="Employee Dashboard" width="100%" />
+  <img src="/images/EmployeDashboard.png" alt="Employee Dashboard" width="100%" />
 </p>
 
 
 
 <p align="center">
-  <img src="ManagerDashboard.png" alt="Manager Dashboard" width="100%" />
+  <img src="/images/ManagerDashboard.png" alt="Manager Dashboard" width="100%" />
 </p>
 
 
 
 <p align="center">
-  <img src="ManagerDashboardPending.png" alt="Manager Dashboard" width="100%" />
+  <img src="/images/ManagerDashboardPending.png" alt="Manager Dashboard" width="100%" />
 </p>
