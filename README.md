@@ -96,6 +96,17 @@ http://localhost:5000
 </p>
 
 <p align="center">
-  <img src="EmployeeLeaveStatus" alt="Employee applying for leave" width="100%" />
+  <img src="EmployeeLeaveStatus.png" alt="Employee applying for leave" width="100%" />
 </p>
 
+<p align="center">
+  <img src="EmployeeDashboard.png" alt="Employee applying for leave" width="100%" />
+</p>
+
+<p align="center">
+  <img src="ManageDashboard.png" alt="Employee applying for leave" width="100%" />
+</p>
+
+<p align="center">
+  <img src="ManageDashboardPending.png" alt="Employee applying for leave" width="100%" />
+</p>
