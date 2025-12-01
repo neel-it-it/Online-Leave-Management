@@ -63,7 +63,9 @@ The **Online Leave Management System** provides an intuitive and automated workf
 | **Backend** | ASP.NET Core MVC 8 |
 | **Database** | SQL Server, EF
 
+---
 
+## **Steps to Connect**
 ## 2️⃣ **Configure Database**
 In appsettings.json:
 
