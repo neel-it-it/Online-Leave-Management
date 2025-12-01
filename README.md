@@ -62,3 +62,11 @@ The **Online Leave Management System** provides an intuitive and automated workf
 | **Frontend** | HTML, CSS, Bootstrap 5, jQuery |
 | **Backend** | ASP.NET Core MVC 8 |
 | **Database** | SQL Server, EF
+
+
+##2️⃣ **Configure Database**
+In appsettings.json:
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=.;Database=LeaveDB;Trusted_Connection=True;"
+}
