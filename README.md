@@ -2,7 +2,7 @@
 <h1 align="center">🏢  Online Leave Management System</h1>
 
 <p align="center">
-  <img src="leavebanner.png" alt="Dark Banner" width="100%" />
+  <img src="/images/leavebanner.png" alt="Dark Banner" width="100%" />
 </p>
 
 <p align="center">
