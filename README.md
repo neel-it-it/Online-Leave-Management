@@ -103,10 +103,12 @@ http://localhost:5000
   <img src="EmployeeDashboard.png" alt="Employee applying for leave" width="100%" />
 </p>
 
-<p align="center">
-  <img src="ManageDashboard.png" alt="Employee applying for leave" width="100%" />
-</p>
 
 <p align="center">
-  <img src="ManageDashboardPending.png" alt="Employee applying for leave" width="100%" />
+  <img src="ManagerDashboard.png" alt="Employee applying for leave" width="100%" />
+</p>
+
+
+<p align="center">
+  <img src="ManagerDashboardPending.png" alt="Employee applying for leave" width="100%" />
 </p>
