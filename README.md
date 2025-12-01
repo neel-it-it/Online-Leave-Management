@@ -84,6 +84,10 @@ dotnet run
 ## 5️⃣ **Open in Browser**
 http://localhost:5000
 
+
+## Screenshots 
+
+
 <p align="center">
   <img src="ApplyForLeave.png" alt="Employee applying for leave" width="100%" />
 </p>
