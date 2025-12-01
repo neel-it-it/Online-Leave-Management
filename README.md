@@ -32,12 +32,6 @@
 - Approve or reject requests  
 - Filter by status  
 - Pagination for large data  
-
-### 🧑‍💼 Admin/HR
-- Manage all employees  
-- Manage all leave requests  
-- Role-based access  
-
 ---
 
 ## 🛠 **Tech Stack**
